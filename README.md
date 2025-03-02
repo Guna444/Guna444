@@ -1,15 +1,6 @@
 # 💫 About Me:
 ![Banner Image](https://github.com/Guna444/Codolio/blob/main/Yellow%20and%20Green%20Illustration%20Personal%20LinkedIn%20Banner.png?raw=true)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guna444/Codolio/main/animated-banner.svg" alt="Animated GitHub Banner">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Guna444/Codolio/main/banner-animated.svg" alt="Animated Banner">
-</p>
-<img src="https://github.com/Guna444/Codolio/blob/main/animated-particles.svg?raw=true">
-<p align="center">
-  <img src="https://github.com/Guna444/Codolio/blob/main/animated-banner.gif" alt="Animated GitHub Banner">
-</p>
+
 
 🔭 I’m currently working on Java Projects and Patents  
 👯 I’m looking to collaborate on Java-based web applications and backend development  
